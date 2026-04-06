@@ -18,7 +18,7 @@ Se o projeto está correto e completo
 Quais pontos podem ser melhorados
 Se há algo faltando em relação ao que foi solicitado
 
-o agente usado foi o  Claude Haiku 4.5 pelo copilot
+o agente usado foi o Claude Haiku 4.5 pelo copilot, ele retornou esses dados:
 
 
 ## 📋 ANÁLISE COMPLETA DO PROJETO PCMania
